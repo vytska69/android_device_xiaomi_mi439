@@ -1,3 +1,3 @@
-# Device Tree for Xiaomi SDM439 Devices (mi439)
+# Device Tree for xiaomi redmi 7a/8a/8a dual (pinewood)
 
-Don't use mi439 vendor images for booting GSIs, It wouldn't work
+Don't use pinewood vendor images for booting GSIs, It wouldn't work
